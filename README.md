@@ -20,4 +20,4 @@ git clone https://github.com/UtkuGlsvn/ImageBackgroundRemoval.git yada uygulamay
 
 ## DEMO
 
-[demo]: https://github.com/UtkuGlsvn/ImageBackgroundRemoval/blob/master/demo.PNG "demo"
+![Demo](https://github.com/UtkuGlsvn/ImageBackgroundRemoval/blob/master/demo.PNG "demo")
